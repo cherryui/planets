@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news-article
 title:  "Welcome to Jekyll!"
 date:   2017-11-26 18:31:25 +0800
 categories: jekyll update
